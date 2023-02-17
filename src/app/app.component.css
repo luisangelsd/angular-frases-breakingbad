@@ -1,23 +1,9 @@
-/* --------------------- NAV ---------------------*/
-
-nav{
-    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);    padding: 10px;
-    text-align: center;
-    height: 40px;
-}
-
-
-#titulo{
-    font-size: 20px;
-    font-kerning: normal;
-    
-}
 
 /* --------------------- Contenedor1 ---------------------*/
 
 #contenedor1{
     text-align: center;
-    padding: 7% 0%;
+    padding: 5% 0%;
 }
 
 
@@ -41,16 +27,9 @@ nav{
 
 
 
-/* --------------------- Footer ---------------------*/
-footer{
-    background-color: rgb(247, 247, 247);
-    text-align: center;
-    height: 50px;
-}
-
-footer>a{
+#sandovalguicho{
     text-decoration: none;
     color: rgb(0, 0, 0);
-    font-size: 18px;
+    font-size: 14px;
     
 }

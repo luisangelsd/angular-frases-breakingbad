@@ -1,19 +1,18 @@
-<nav id="menu-navegacion">
-  <b><p id="titulo">🍻 Frases epicas Breaking Bad 💊</p></b>
-</nav>
-
 <section id="contenedor1">
   <section id="imagen-portada">
+    <small>Frases epicas de Breaking Bad</small><br>
+    <small id="mensaje">{{mensajePersonalizado}}</small><br>
     <img src="../assets/img/img1.png" id="img">
   </section>
   <section id="buscador-aleatorio">
-    <h1>{{frase[0].quote}}  </h1>
+    <h1>"{{frase[0].quote}}"  </h1>
        <p>Autor: {{frase[0].author}}</p>
-    <button type="button" class="btn btn-warning"(click)="obtenerFraseAleatoria()">¡Generar Frase!</button>
+    <button type="button" class="btn btn-warning"(click)="obtenerFraseAleatoria()">Generar Frase</button>
   </section>
+  <a href="https://sandovalguicho.com/" target="_blank" id="sandovalguicho">By: Sandoval Güicho</a>
 </section>
 
 
 <footer>
-    <a href="htps://sandovalguicho.com">Sandoval Güicho</a>
+    
 </footer>
