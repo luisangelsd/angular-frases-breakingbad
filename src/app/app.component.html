@@ -7,9 +7,9 @@
     <img src="../assets/img/img1.png" id="img">
   </section>
   <section id="buscador-aleatorio">
-    <h1>"Lorem, ipsum dolor sit amet consectetur adipisicing elit"</h1>
-    <p>Autor: Luis Angel</p>
-    <button type="button" class="btn btn-warning">¡Generar Frase!</button>
+    <h1>{{frase[0].quote}}  </h1>
+       <p>Autor: {{frase[0].author}}</p>
+    <button type="button" class="btn btn-warning"(click)="obtenerFraseAleatoria()">¡Generar Frase!</button>
   </section>
 </section>
 
