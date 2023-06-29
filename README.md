@@ -1,7 +1,15 @@
-## FrontEnd:
+# Documentación
+El objetivo de este proyecto es poder consumir una API publica utilizando Angular con todas sus funcionalidades. La aplicación te muestra de forma aleatoria las frases mas épicas de la serie “Breaking Bad”
 
-Es un sitio web que muestra frases épicas (de forma aleatoria) de la serie Breaking Bad
- - Clic para ver la app: https://dev.sandovalguicho.com/angular-frases-breakingbad/ 
+**Nota:** El proyecto ya viene configurado, solamente tienes que descargar y ejecutarlo
+
+## Algunas Características Importantes:
++ Consumo de API
++ Componentes
++ Servicios
++ HTML5
++ CSS3
++ TypeScript
 
 ## Backend
 
