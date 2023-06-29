@@ -1,4 +1,4 @@
-# Documentación
+# Documentación:
 El objetivo de este proyecto es poder consumir una API publica utilizando Angular con todas sus funcionalidades. La aplicación te muestra de forma aleatoria las frases mas épicas de la serie “Breaking Bad”
 
 **Nota:** El proyecto ya viene configurado, solamente tienes que descargar y ejecutarlo
@@ -14,3 +14,6 @@ El objetivo de este proyecto es poder consumir una API publica utilizando Angula
 ## Backend
 
 El Backend es externo y toda la documentación podemos encontrarla desde el siguiente enlace: https://breakingbadquotes.xyz/
+
+## Ver en Producción:
++ Link: https://dev.sandovalguicho.com/angular-frases-breakingbad/
